@@ -21,11 +21,11 @@ Here are some ideas to get you started:
  </p>
 <img src="https://user-images.githubusercontent.com/73133055/125937060-bdd3d3bb-d530-48a4-9bc7-84bd9e2e9bd3.gif" width="350"/>  
 
-<p align="left"><img src="https://user-images.githubusercontent.com/73133055/125938552-1f60188b-0e98-4907-9e76-46d0800bae8e.gif" width="250"/></p>
+<p align="left"><img src="https://user-images.githubusercontent.com/99723773/158053778-a298d49c-6941-46c7-b760-e60b5fa3391a.gif" width="250"/></p>
 
 - 🔭 I’m currently pursuing my Bachelor's degree in Computer Science from IIT Mandi
 - 🌱 I’m currently learning to enjoy my life to the fullest!
-- 👯 I’m looking to collaborate on Open Source Projects!
+- 👯 I’m looking to explore something new everyday :D
 - 💬 Ask me about 🤷‍
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/akriti-b677181a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aishal" height="20" width="15" /></a>
 
