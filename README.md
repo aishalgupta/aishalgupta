@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning to enjoy my life to the fullest!
 - 👯 I’m looking to explore something new everyday :D
 - 💬 Ask me about 🤷‍
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/akriti-b677181a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aishal" height="20" width="15" /></a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/aishal-gupta-67624b226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aishal" height="20" width="15" /></a>
 
 - ⚡ Fact: It's always just an idea before it makes history!!
 
