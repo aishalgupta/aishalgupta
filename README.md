@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me out: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 --> -->
 <p align="center">
  <img src="https://user-images.githubusercontent.com/73133055/152652089-f56c0ea1-19f7-4b44-8cb2-948ebff77d6d.jpeg" width="250"/>  
@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about 🤷‍
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/aishal-gupta-67624b226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aishal" height="20" width="15" /></a>
 
-- ⚡ Fact: It's always just an idea before it makes history!!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishalg&label=Profile%20views&color=0e75b6&style=flat" alt="aishalg" /> </p>
 
