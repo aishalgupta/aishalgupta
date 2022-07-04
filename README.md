@@ -95,4 +95,5 @@ Here are some ideas to get you started:
  -->
  
  ## Wooh! My contributions being galloped by the snake🐍
+ ![snake gif](https://github.com/aishalg/aishalg/blob/output/github-contribution-grid-snake.gif)
  
