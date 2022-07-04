@@ -36,6 +36,11 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73133055/152651686-8a503e45-80e1-4203-81cb-97e00cc1a12d.gif" width="500"/></p>
 
+<h3 align="left">Badges:</h3>
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+	![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+ 	![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
