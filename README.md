@@ -44,6 +44,8 @@ Here are some ideas to get you started:
 #  Tech Stack  <img src="/assets/spongebob.gif" height="55px">:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)   	<br><br>
 
+![Aishal Gupta Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=aishalg&show_icons=true&include_all_commits=true&theme=radical)
+
 
 
 
