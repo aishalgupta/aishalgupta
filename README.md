@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/73133055/125937060-bdd3d3bb-d530-48a4-9bc7-84bd9e2e9bd3.gif" width="350"/>  
 
 <p align="left"><img src="https://user-images.githubusercontent.com/99723773/158053778-a298d49c-6941-46c7-b760-e60b5fa3391a.gif" width="250"/></p>
-- 💬 Hey There! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+
 - 🔭 I’m currently pursuing my Bachelor's degree in Computer Science from IIT Mandi 
 - 🌱 I’m currently learning to enjoy my life to the fullest!
 - 👯 I’m looking to explore something new everyday :D
