@@ -99,6 +99,6 @@ Here are some ideas to get you started:
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=A-kriti&show_icons=true&locale=en" alt="A-kriti" /></p>
  -->
  <br> <br>
- ## Wooh! Aishal's contributions being galloped by the snake🐍
+
  ![snake gif](https://github.com/aishalg/aishalg/blob/output/github-contribution-grid-snake.gif)
  
