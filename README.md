@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about 🤷‍
 - ⚡ Fun fact: Drinking Coffee makes me feel sleepier!
 <br>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/aishal-gupta-67624b226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aishal" height="20" width="15" />
+<!-- - 📫 How to reach me: <a href="https://www.linkedin.com/in/aishal-gupta-67624b226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aishal" height="20" width="15" /> -->
 </a>
 
 
