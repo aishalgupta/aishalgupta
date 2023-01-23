@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </a>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aishalg&label=Profile%20views&color=0e75b6&style=flat" alt="aishalg" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aishalg&label=Profile%20views&color=0e75b6&style=flat" alt="aishalgupta" /> </p>
 
 <!--<p align="center"><img src="https://user-images.githubusercontent.com/73133055/125938816-fce8e3c5-9151-4dc7-b4e1-52f97d238523.gif" width="500"/></p>-->
 
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 # Tech Stack  <img src="/assets/spongebob.gif" height="55px">:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)   	<br><br>
 
-![Aishal Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=aishalg&show_icons=true&include_all_commits=true&theme=radical)
+![Aishal Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=aishalgupta&show_icons=true&include_all_commits=true&theme=radical)
 
 
 
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <p align="left">
 
 
-<a href="https://www.linkedin.com/in/aishal-gupta-67624b226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Akriti" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aishal-gupta-67624b226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aishal" height="30" width="40" /></a>
 
 </p>
 
@@ -85,21 +85,6 @@ Here are some ideas to get you started:
 </p>
 
 
-<!-- 
-<h3 align="left">Try some of my snapchat filters:</h3>
-<p align="left">
-
- <h4 align="left">Purple Sunglasses</h4>
- <a href="https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=ff0b2b5ff0ff45de94525c066c7d7ce1&metadata=01" target="_blank"> <img src="https://user-images.githubusercontent.com/73133055/132957266-8313377b-4e90-4bcb-83fe-bcbdbb7a0c40.png" alt="css3" width="40" height="40"/> </a> 
-
-  <h4 align="left">Tangy Makeup</h4>
- <a href="https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=ae2562ec12134a7fae598cc668772c41&metadata=01" target="_blank"> <img src="https://user-images.githubusercontent.com/73133055/132957266-8313377b-4e90-4bcb-83fe-bcbdbb7a0c40.png" alt="css3" width="40" height="40"/> </a> 
-
-</p> -->
-
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=A-kriti&show_icons=true&locale=en" alt="A-kriti" /></p>
- -->
  <br> <br>
 
  ![snake gif](https://github.com/aishalg/aishalg/blob/output/github-contribution-grid-snake.gif)
