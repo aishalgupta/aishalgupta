@@ -88,4 +88,4 @@ Here are some ideas to get you started:
  <br> <br>
 
  ![snake gif](https://github.com/aishalg/aishalg/blob/output/github-contribution-grid-snake.gif)
- 
+  ![snake gif](https://github.com/aishalxgupta/aishalxgupta/blob/output/github-contribution-grid-snake.gif)
